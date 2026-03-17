@@ -1,0 +1,57 @@
+# Visual Studio
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.ipch
+*.aps
+*.ncb
+*.cachefile
+*.user
+*.userprefs
+*.log
+
+# Rider
+.idea/
+
+# Binaries
+Binaries/
+
+# Build files
+Build/
+
+# Derived data
+DerivedDataCache/
+
+# Intermediate files
+Intermediate/
+
+# Saved folder (autosaves, logs, backups, etc.)
+Saved/
+
+# Unreal specific
+*.pdb
+*.obj
+*.exe
+*.dll
+*.app
+*.dylib
+*.lib
+*.exp
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Crash reports
+*.dmp
+
+# Generated project files
+*.sln
+*.xcodeproj
+*.xcworkspace
